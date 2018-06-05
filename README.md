@@ -1,9 +1,10 @@
+
 # Java_Learning
 problem statements/ Requirements
 
 Loops & Conditional Statements
 ---------------------------------
-Datex Shipping Corporation uses a specific code to identify through what modes can an item be possibly shipped. The special shipment code is a string of length strictly 3 characters containing only 0's and 1's.
+The special shipment code is a string of length strictly 3 characters containing only 0's and 1's.
 If the item can be shipped through only Airways, the first digit in the code will be 1 otherwise 0 --> 100
 If the item can be shipped through only Waterways, the second digit in the code will be 1 otherwise 0 --> 010
 If the item can be shipped through only Roadways, the third digit in the code will be 1 otherwise 0 --> 001
@@ -87,4 +88,5 @@ FirstName :peeter
 LastName :mark
 Contact :9965000001
 -------------------------------------------
+
 
