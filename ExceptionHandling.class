@@ -1,0 +1,14 @@
+
+			}
+			catch(NumberFormatException e)
+			{
+			System.out.println("Exception : "+e.getClass().getCanonicalName());
+			System.out.println("Re-enter the item price :");	
+			total = total + Integer.parseInt(br.readLine());
+			}
+			
+		}	System.out.println("Total cost of the container is "+total);
+
+		
+	}
+}
